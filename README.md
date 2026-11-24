@@ -1,5 +1,9 @@
 # One-Line Office Joke — make.fun entry
 
+[![make.fun](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/Ritwan007/makefun-office-joke-aaf86162/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/Ritwan007/makefun-office-joke-aaf86162/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+
 Competition: **One-Line Office Joke: 24-Hour Sprint**
 (`u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162`)
 
